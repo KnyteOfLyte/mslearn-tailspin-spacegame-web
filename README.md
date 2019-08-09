@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/AliJLearning/Learn1/_apis/build/status/KnyteOfLyte.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/AliJLearning/Learn1/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
